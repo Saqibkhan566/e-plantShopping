@@ -36,7 +36,21 @@ body {
     color: white;
     font-size: 30px;
     text-decoration: none;
-   
+}
+.plant{
+    font-size: 2rem;
+    margin-left: 3rem;
+    
+}
+
+.plant a{
+    text-decoration: none;
+    color: white;
+
+}
+
+.plant a:hover{
+   color: #ccc;
 }
 
 /* Product Grid */
